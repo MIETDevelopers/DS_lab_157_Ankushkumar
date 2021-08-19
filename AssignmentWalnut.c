@@ -3,7 +3,7 @@
    ROLL NO. -> 2020A1R157
    CREATED -> 18/8/21 */
 
-#include <stdio.h>//Pre Procesiective  directive to include standard input or output header file
+#include <stdio.h>//Preprocessor  directive to include standard input or output header file
 #include <stdlib.h>
 void create();          
 void shop_name();
