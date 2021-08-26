@@ -1,4 +1,4 @@
-//Name :Ankush kumar.
+//Name :Ankush kumar
 //Roll No:2020A1R157
 //Program to insert , delete and search in array 
 #include <stdio.h>//Preprocessor directive to include standard output and input header file
