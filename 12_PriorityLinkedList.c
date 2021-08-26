@@ -1,6 +1,6 @@
 //Name Ankush kumar
 //Roll No:2020A1R157
-//Program to implement priority using Linked List
+//Program to implement priority using Linked List.
 #include<stdio.h>
 #include<stdlib.h>
 void enqueue();
