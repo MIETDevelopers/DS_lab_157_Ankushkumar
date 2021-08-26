@@ -1,8 +1,8 @@
-/**
- Name :Ankush kumar
- Roll No:2020A1R157
- Program to Queue implementation using array.
- */
+
+// Name :Ankush kumar
+ //Roll No:2020A1R157
+ //Program to Queue implementation using array.
+ 
 
 #include <stdio.h>
 #include <stdlib.h>
