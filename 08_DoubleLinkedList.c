@@ -1,6 +1,6 @@
 //Name:Ankush kumar
 //Roll No:20201R157
-//Program to implement doubleLinkedList
+//Program to implement doubleLinkedList.
 #include<stdio.h>  //Preprocessor directive to include standard output or input header file
 #include<stdlib.h>//preprocessor directive to include standard library header file
 struct node  //struct create and variable is node
