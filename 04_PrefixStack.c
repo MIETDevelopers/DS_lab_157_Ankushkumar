@@ -1,4 +1,4 @@
-//Name :Ankush kumar
+//Name :Ankush kumar.
 //Roll no :2020A1R157
 //Program to find the experssion in prefix using stack
 #include<stdio.h>  //   Pre-Processive to include standard input and output funtion header files
