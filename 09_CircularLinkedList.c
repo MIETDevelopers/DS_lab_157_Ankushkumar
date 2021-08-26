@@ -1,6 +1,6 @@
 //Name:Ankush kumar
 //Roll no:2020A1R157
-//Program to implement CircularLinkedlist
+//Program to implement CircularLinkedlist.
 #include<stdio.h>  //Preprocessor directive to include standard output or input header file
 #include<stdlib.h>  //Preprocessor directive to include standard library header file
 struct node   //Create struct its variable node
