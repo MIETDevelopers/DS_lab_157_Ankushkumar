@@ -1,6 +1,6 @@
 //Name :Ankush kumar
 //Roll no 2020A1R157
-// program to insert ,delete ,search in singleLinked list
+// program to insert ,delete ,search in singleLinked list.
 #include<stdio.h>  //preprocessor directive to include standard output or input header file
 #include<stdlib.h>  //preprocessor directive to include standard library header file
 struct node 
