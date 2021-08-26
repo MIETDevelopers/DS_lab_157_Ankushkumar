@@ -1,6 +1,6 @@
 //Name Ankush kumar
 //Roll No:2020A1R157
-//Program to implement LinkedList using stack
+//Program to implement LinkedList using stack.
 #include <stdio.h>  
 #include <stdlib.h>  
 void push();  
