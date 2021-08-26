@@ -1,6 +1,6 @@
 //Name :Ankush kumar
 //Roll No:2020A1R157
-//Program to insert ,delete and search in array using stack
+//Program to insert ,delete and search in array using stack.
 #include<stdio.h>//Preprocessor directive to include standard output or input header file
 int stack[100],choice,n,top,x,i;// create stack and creat variable
 void push(void);
