@@ -1,6 +1,6 @@
 //Name :Ankush kumar
 //Roll No:2020A1R157
-//Program to check expression is correctly parenthesized
+//Program to check expression is correctly parenthesized.
 #include<stdio.h>//preprocessor directive to include standard output or input header file
 #include<stdlib.h>//preprocessor directive to include standard libarary header file
 int top=-1;//stack is empty
